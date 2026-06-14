@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://7pearltravelservices.com/</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/hero-travel.jpg</image:loc>
+      <image:title>7 Pearl Travel Services – Best Travel Agency in Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/hero-mountains.jpg</image:loc>
+      <image:title>Mountain Tour Packages from Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/hero-bali.jpg</image:loc>
+      <image:title>Bali International Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/ladakh.jpg</image:loc>
+      <image:title>Ladakh Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/goa.jpg</image:loc>
+      <image:title>Goa Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/kerala.jpg</image:loc>
+      <image:title>Kerala Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/rajasthan.jpg</image:loc>
+      <image:title>Rajasthan Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/andaman.jpg</image:loc>
+      <image:title>Andaman Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/maldives.jpg</image:loc>
+      <image:title>Maldives Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/dubai.jpg</image:loc>
+      <image:title>Dubai Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/bali.jpg</image:loc>
+      <image:title>Bali Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/paris.jpg</image:loc>
+      <image:title>Paris Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/switzerland.jpg</image:loc>
+      <image:title>Switzerland Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/kenya.jpg</image:loc>
+      <image:title>Kenya Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/singapore.jpg</image:loc>
+      <image:title>Singapore Tour Package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://7pearltravelservices.com/images/thailand.jpg</image:loc>
+      <image:title>Thailand Tour Package</image:title>
+    </image:image>
+  </url>
+
+</urlset>
